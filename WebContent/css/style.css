@@ -1,0 +1,54 @@
+@charset "ISO-8859-1";
+.header {
+ padding:30px;
+  text-align: center;
+  background: #1abc9c;
+  color: white;
+  font-size: 35px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+label {
+
+  text-align: center;
+  color: grey;
+  font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+     font-weight: bold;
+}
+
+li {
+ padding:10px;
+  color: grey;
+  font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+textarea{
+	  padding:10px;	
+	  margin-top: 20px;
+   	 margin-bottom: 20px;
+	
+}
+form:textarea{
+	 padding:10px;	
+
+ }
+
+span {
+ padding:10px;
+  text-align: center;
+  color: grey;
+  font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+
+
+.center {
+	
+  margin: auto;
+  width: 100%;
+  
+  padding: 5%;
+}
